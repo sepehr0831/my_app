@@ -1,0 +1,17 @@
+li {
+    display: inline;
+    padding: 8px;
+  }
+
+  ul.Navbar {
+    list-style-type: none;
+    margin: 2px;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #309da2;}
+
+button{
+    border: 1px solid black;
+    font-size: larger;
+    font-style: italic;
+}
